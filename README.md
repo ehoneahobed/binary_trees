@@ -14,3 +14,4 @@ Visiting is all about checking the value of a node when control is on the node.
 
 Binary Search Tree(BST) has basic operations which include:
 Insert: inserting an element in a tree or creating a tree.
+Search: searching for an element in a tree.
