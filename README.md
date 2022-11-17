@@ -16,3 +16,4 @@ Binary Search Tree(BST) has basic operations which include:
 Insert: inserting an element in a tree or creating a tree.
 Search: searching for an element in a tree.
 Preorder Traversal: traversing a tree in a pre-order way.
+Inorder Traversal: traversing a tree in an in-order way.
