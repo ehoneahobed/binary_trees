@@ -11,6 +11,7 @@ According to the Binary Search Tree Representation the rightchild node is the no
 Meanwhile the Parent node is any node except the root node with one edge upward. Leaf node is the node without any child node, that is, the last or tail node at the end of every binary tree.
 Subtree is the descendants of a node.
 Visiting is all about checking the value of a node when control is on the node.
+Traversing is all about passing through nodes in a specific order.
 
 Binary Search Tree(BST) has basic operations which include:
 Insert: inserting an element in a tree or creating a tree.
