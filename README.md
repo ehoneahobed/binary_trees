@@ -7,3 +7,4 @@ The root node is the node at the top of the tree. A tree can only have one root 
 The path is the sequence of nodes along the edges of a tree.
 The child node is the node below a given node connected by its edge downward.
 The child node is of two types - The LEFTCHILD and The RIGHTCHILD.
+According to the Binary Search Tree(BST) Representation the leftchild node is the node with 
