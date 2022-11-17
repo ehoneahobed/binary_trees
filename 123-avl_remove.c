@@ -119,12 +119,10 @@ bst_t *bst_remove(bst_t *root, int value)
 }
 
 /**
- * avl_remove - removes a node from an AVL tree
- * @root: a pointer to the root node of the tree for removing a node
- * @value: the value to remove in the tree
- *
- * Return: a pointer to the new root node of the tree after removal
- *         NULL on failure
+ * avl_remove - remove a node from a AVL tree
+ * @root: root of the tree
+ * @value: node with this value to remove
+ * Return: the tree changed
  */
 avl_t *avl_remove(avl_t *root, int value)
 {
