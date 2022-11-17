@@ -6,3 +6,4 @@ A simple binary tree consists of the ROOT, PATH AND CHILD nodes.
 The root node is the node at the top of the tree. A tree can only have one root node and one path from the root node to any other node.
 The path is the sequence of nodes along the edges of a tree.
 The child node is the node below a given node connected by its edge downward.
+The child node is of two types - The LEFTCHILD and The RIGHTCHILD.
