@@ -8,4 +8,4 @@ The path is the sequence of nodes along the edges of a tree.
 The child node is the node below a given node connected by its edge downward.
 The child node is of two types - The LEFTCHILD and The RIGHTCHILD.
 According to the Binary Search Tree Representation the rightchild node is the node with its value greater than the value of its parent node.
-Meanwhile the Parent node is any node except the root node with one edge upward. Leaf node is 
+Meanwhile the Parent node is any node except the root node with one edge upward. Leaf node is the node without any child node, that is, the last or tail node at the end of every binary 
