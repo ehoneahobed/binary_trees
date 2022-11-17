@@ -21,7 +21,6 @@ int successor(bst_t *node)
 		}
 		return (left);
 	}
-
 }
 /**
  * two_children - function that gets the next successor using the min
