@@ -19,4 +19,4 @@ Preorder Traversal: traversing a tree in a pre-order way.
 Inorder Traversal: traversing a tree in an in-order way.
 Postorder Traversal: traversing a tree in a post-order way.
 
-Insert Operation: The first insert operation in a tree is to create a tree. To insert an element in a tree first locate its location. Search from the root node and if the value you are looking for is less than the root node value, search for the empty location in the left subtree or node and insert the data or element. Otherwise, search for the empty location in 
+Insert Operation: The first insert operation in a tree is to create a tree. To insert an element in a tree first locate its location. Search from the root node and if the value you are looking for is less than the root node value, search for the empty location in the left subtree or node and insert the data or element. Otherwise, search for the empty location in the right subtree or node and insert the element or data.
