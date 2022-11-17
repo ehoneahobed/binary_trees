@@ -18,3 +18,5 @@ Search: searching for an element in a tree.
 Preorder Traversal: traversing a tree in a pre-order way.
 Inorder Traversal: traversing a tree in an in-order way.
 Postorder Traversal: traversing a tree in a post-order way.
+
+Insert Operation: The first insert operation in a tree is to create a tree. To insert an 
